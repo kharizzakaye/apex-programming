@@ -1,4 +1,4 @@
-// Given a work, prepend it with the correct indefinite article ("a" or "an") followed by a space based on 
+// Given a word, prepend it with the correct indefinite article ("a" or "an") followed by a space based on 
 // the following rule: words starting with a vowel (a, e, i, o, or u) are prepended with "an", while words 
 // starting with any other letter are prepended with "a".
 
